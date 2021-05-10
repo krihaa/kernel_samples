@@ -1,3 +1,3 @@
 # kernel_samples
 
-Bits of code I wrote for kernel project.
+Code bits from kernel project
